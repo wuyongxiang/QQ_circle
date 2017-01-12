@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_red_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_red_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_purple.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wood.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\wood.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_red.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_green.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_green_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_green_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_purplev_small.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_purplev_small.png"
+    }
+]

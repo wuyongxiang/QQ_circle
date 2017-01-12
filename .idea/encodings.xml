@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tao/xue/li/physical/BallThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tao/xue/li/physical/BallView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tao/xue/li/physical/DrawThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tao/xue/li/physical/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tao/xue/li/physical/Movable.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

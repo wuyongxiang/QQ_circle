@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\physical1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f37bc5c5425c1c0e6bb8e2c68a91a0d076b906">
+        <dex dex="C:\Users\Administrator\Desktop\physical1\app\build\intermediates\pre-dexed\debug\instant-run_871e932373217222fd0152dc9cca9d8e2fb8eaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\physical1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e54ec51c787cf5c748f0590ec4f4d4f51fb8a098">
+        <dex dex="C:\Users\Administrator\Desktop\physical1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_35fe4f406e770b3370f3604e4b440450307c3437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-studio-\android-sdk_r24.1.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\physical1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_e6ffe8e52e0fe517889195edddd0443ce52a6f2c.jar" />
+    </item>
+
+</items>
