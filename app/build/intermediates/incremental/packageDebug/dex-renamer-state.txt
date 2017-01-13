@@ -1,4 +1,4 @@
-#Tue Jan 10 19:14:01 CST 2017
+#Fri Jan 13 18:16:22 CST 2017
 base.0=C\:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

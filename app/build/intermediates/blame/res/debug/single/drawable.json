@@ -1,34 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_red_small.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_red_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_purple.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_purple.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wood.png",
         "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\wood.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_red.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_red.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\head.jpg"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
         "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\back.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_green.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_green.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\none.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\none.jpg"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_green_small.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_green_small.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huaji.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\huaji.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_purplev_small.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\ball_purplev_small.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bianbian.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\bianbian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_focused.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_focused.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\chatto_bg_focused.9.png"
     }
 ]

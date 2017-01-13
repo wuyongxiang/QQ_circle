@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\layout\\list_item.xml"
     }
 ]

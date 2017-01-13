@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "tao.xue.li.physical"
+        applicationId "com.xiangzi.qq_list"
         minSdkVersion 7
         targetSdkVersion 19
     }
