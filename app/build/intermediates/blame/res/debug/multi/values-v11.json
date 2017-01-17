@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 4,
                     "endColumn": 12,
-                    "endOffset": 187
+                    "endOffset": 193
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 182,
+                        "startOffset": 183,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 316
+                        "endOffset": 323
                     }
                 }
             }

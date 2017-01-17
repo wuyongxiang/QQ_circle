@@ -104,17 +104,17 @@
                     "startOffset": 321,
                     "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 607
+                    "endOffset": 618
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 495
                     }
                 }
             },
@@ -122,20 +122,20 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 612,
+                    "startOffset": 623,
                     "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 767
+                    "endOffset": 778
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 536,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 693
                     }
                 }
             }

@@ -9,14 +9,14 @@
                     "startOffset": 55,
                     "endLine": 4,
                     "endColumn": 12,
-                    "endOffset": 201
+                    "endOffset": 199
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 225,
+                        "startOffset": 227,
                         "endLine": 9,
                         "endColumn": 12,
                         "endOffset": 373

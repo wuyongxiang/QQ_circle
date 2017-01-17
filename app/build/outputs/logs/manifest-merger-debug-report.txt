@@ -22,7 +22,7 @@ ADDED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest
 		INJECTED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml:8:9-34
+		ADDED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\physical1\app\src\main\AndroidManifest.xml
 application

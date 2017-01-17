@@ -24,11 +24,11 @@
         "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\bianbian.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_focused.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\chatfrom_bg_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_focused.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_focused.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\physical1\\app\\src\\main\\res\\drawable\\chatfrom_bg_focused.9.png"
     }
 ]

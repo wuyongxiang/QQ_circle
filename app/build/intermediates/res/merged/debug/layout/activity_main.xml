@@ -7,9 +7,8 @@
 
     <com.xiangzi.qq_list.BallView
         android:id="@+id/list"
-        android:background="#ffffff"
+        android:background="@android:color/transparent"
         android:dividerHeight= "10dp"
-        android:divider="#ffffff"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginBottom="50dp"

@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">physical</string>
     <string name="hello_world">Hello world!</string>
-    <style name="AppBaseTheme" parent="android:Theme.Light">
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
         <!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to

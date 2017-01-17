@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.xiangzi.qq_list.test">
 
-    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="12" android:targetSdkVersion="19" />
 
     <application>
         <uses-library android:name="android.test.runner" />
