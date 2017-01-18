@@ -82,8 +82,8 @@ public class BallView extends View {
 		canvas.drawBitmap(bitmap, currentX, currentY, null);
 	}
 	public class BallThread extends Thread {
-		boolean flag = false;
-		double current;
+		boolean flag = false; //一次小球运动标志
+		double current;//实时时间
 		public BallThread(){
 			timeX = System.nanoTime();
 			this.flag = true;
@@ -93,7 +93,7 @@ public class BallView extends View {
 			while(GROUND_LING<pointList.size()-1){
 				flag = true;
 				startVY = -(float)(1200);
-				double t1 = -startVY/g;
+				double t1 = -startVY/g; //V=V0+g*t  V=0 ,则t=-V0/g
 				double s = (startVY*t1+0.5*g*t1*t1);
 				double t2 =Math.sqrt(((2*(pointList.get(GROUND_LING+1).y-startY+(Math.abs(s))))/g));
 				double t = t1+t2;
@@ -117,10 +117,12 @@ public class BallView extends View {
 							startY =  currentY;
 						}
 						if( currentY +  r*2 >= pointList.get(GROUND_LING+1).y &&  currentVY > 0){
-							currentVX =  currentVX * ( impactFactoryX);
+							//到达目标坐标点，开始弹跳
+							currentVX =  currentVX * ( impactFactoryX);//速度衰减
 							currentVY = 0 -  currentVY * ( impactFactoryY);
 
 							if(Math.abs( currentVY) < BallView.DOWN_ZERO){
+								//当速度衰减到最小速度以后，小球落地，运动结束
 								try{
 									Thread.sleep(100);
 								}catch(Exception e){
@@ -140,7 +142,7 @@ public class BallView extends View {
 					}else {
 						if( currentVY == 0 ||  currentVY > 0){
 							timeY = System.nanoTime();
-							bFall = true;
+							bFall = true;//bFall参数用来判断是否进行S2的自由落体运动
 						}else{
 							currentVY = (int)( startVY + g * timeSpanX);
 							currentY = (int)( currentY +  startVY * timeSpanX + timeSpanX * timeSpanX * g/2);
